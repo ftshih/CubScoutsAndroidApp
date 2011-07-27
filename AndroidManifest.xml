@@ -17,6 +17,7 @@
         <activity android:name=".cubscouts.CalendarActivity"></activity>
 
         <activity android:name=".cubscouts.AdvancementActivity"></activity>
-
+        <activity android:name=".cubscouts.bobcat.BobcatActivity"></activity>
+        <use-sdk android:minSdkVersion="8"/>
     </application>
 </manifest>
